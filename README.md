@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codealeks
+- 👋 Hi, I’m Aleks
 - 👀 I’m interested in ReactJS and Web Development in general
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on beginner ReactJS projects 
